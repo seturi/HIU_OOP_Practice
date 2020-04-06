@@ -1,0 +1,6 @@
+﻿  switch.cpp
+C:\Users\SwKim\Desktop\ing\대학\2\1학기\객체지향\연습_실습_과제\Project 200406\01 switch\switch.cpp(12,2): warning C4065: switch문에 'default'가 있으나 'case' 레이블이 없습니다.
+C:\Users\SwKim\Desktop\ing\대학\2\1학기\객체지향\연습_실습_과제\Project 200406\01 switch\switch.cpp(6,7): warning C4102: 'case1': 참조되지 않은 레이블입니다.
+C:\Users\SwKim\Desktop\ing\대학\2\1학기\객체지향\연습_실습_과제\Project 200406\01 switch\switch.cpp(8,7): warning C4102: 'case2': 참조되지 않은 레이블입니다.
+C:\Users\SwKim\Desktop\ing\대학\2\1학기\객체지향\연습_실습_과제\Project 200406\01 switch\switch.cpp(9,7): warning C4102: 'case3': 참조되지 않은 레이블입니다.
+  01 switch.vcxproj -> C:\Users\SwKim\Desktop\ing\대학\2\1학기\객체지향\연습_실습_과제\Project 200406\Debug\01 switch.exe
