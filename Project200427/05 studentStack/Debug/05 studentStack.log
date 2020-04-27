@@ -1,0 +1,4 @@
+﻿  studentStack.cpp
+C:\Users\SwKim\Desktop\ing\대학\2\1학기\객체지향\연습_실습_과제\Project200427\05 studentStack\Student.h(18,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\SwKim\Desktop\ing\대학\2\1학기\객체지향\연습_실습_과제\Project200427\05 studentStack\Student.h(19,3): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  05 studentStack.vcxproj -> C:\Users\SwKim\Desktop\ing\대학\2\1학기\객체지향\연습_실습_과제\Project200427\Debug\05 studentStack.exe
