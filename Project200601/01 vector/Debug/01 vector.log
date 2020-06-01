@@ -1,0 +1,4 @@
+﻿  vector.cpp
+C:\Users\SwKim\Desktop\ing\대학\2\1학기\객체지향\연습_실습_과제\Project200601\01 vector\vector.cpp(12,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\SwKim\Desktop\ing\대학\2\1학기\객체지향\연습_실습_과제\Project200601\01 vector\vector.cpp(20,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  01 vector.vcxproj -> C:\Users\SwKim\Desktop\ing\대학\2\1학기\객체지향\연습_실습_과제\Project200601\Debug\01 vector.exe
